@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="Live TV" tvg-name="UK: Sky Sports F1 UHD" tvg-id="SkySp.F1.uk" tvg-logo="https://i.imgur.com/aetKPNi.png"  radio="false",UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
+
+#EXTINF:-1 group-title="Live TV" tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png"  radio="false",Sky Sports F1 FHD
+https://a1xs.vip/2000005
