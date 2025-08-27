@@ -8,4 +8,5 @@ https://archive.org/download/2025-f-1-the-movie/%282025%29%20F1%20The%20Movie.mp
 # ------------------ LIVE TV ---------------------------
 #EXTINF:-1 group-title="LIVE TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ LIVE TV ]
 # ------------------ LIVE TV ---------------------------
-
+#EXTINF:-1  group-title="LIVE TV" tvg-name="UK: Sky Sports F1 UHD" tvg-id="SkySp.F1.uk" tvg-logo="https://i.imgur.com/aetKPNi.png"  radio="false",UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
