@@ -1,6 +1,6 @@
 #EXTM3U
 # -------------- Movies --------------
-#EXTINF:-1 group-title="Movies" tvg-id="Blank.Dummy.us" tvg-name="Live TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [Movies]
+#EXTINF:-1 group-title=" Movies " tvg-id="Blank.Dummy.us" tvg-name="Live TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [Movies]
 https://jmp2.uk/stvp-CA2900005KG
 
 # https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
