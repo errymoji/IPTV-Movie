@@ -1,6 +1,6 @@
 #EXTM3U
 # -------------- Movies --------------
-#EXTINF:-1 group-title="Movies" tvg-id="Blank.Dummy.us" tvg-name="Live TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ Movies ]
+#EXTINF:-1 group-title="Movies" tvg-id="Blank.Dummy.us" tvg-name="Live TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [Movies]
 https://jmp2.uk/stvp-CA2900005KG
 
 # https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
@@ -9,7 +9,7 @@ https://jmp2.uk/stvp-CA2900005KG
 https://archive.org/download/2025-f-1-the-movie/%282025%29%20F1%20The%20Movie.mp4
 
 # -------------- Live TV --------------
-#EXTINF:-1 group-title="Live TV" tvg-id="Blank.Dummy.us" tvg-name="Live TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ Live TV ]
+#EXTINF:-1 group-title="Live TV" tvg-id="Blank.Dummy.us" tvg-name="Live TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [Live TV]
 https://jmp2.uk/stvp-CA2900005KG
 # https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # -------------- Live TV --------------
