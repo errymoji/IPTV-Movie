@@ -8,7 +8,7 @@ https://archive.org/download/2025-f-1-the-movie/%282025%29%20F1%20The%20Movie.mp
 
 # -------------- Live TV --------------
 
-#EXTINF:-1 group-title="Live TV" tvg-id="Blank.Dummy.us" tvg-name="Live TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ Live TV ]
+#EXTINF:-1 group-title="Live TV" tvg-id="Blank.Dummy.us" tvg-name="Live TV" tvg-logo="https://cdn-icons-png.flaticon.com/128/1023/1023572.png", [ Live TV ]
 https://jmp2.uk/stvp-CA2900005KG
 
 #EXTINF:-1 group-title="Live TV" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png", Sky Sports F1 FHD
@@ -16,7 +16,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/53704
 
 # -------------- F1 The Academy (2025) - Season 1 --------------
 
-#EXTINF:-1 group-title="F1 The Academy (2025) - Season 1" tvg-id="Blank.Dummy.us" tvg-name="F1 The Academy (2025) - Season 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ F1 The Academy (2025) - Season 1 ]
+#EXTINF:-1 group-title="F1 The Academy (2025) - Season 1" tvg-id="Blank.Dummy.us" tvg-name="F1 The Academy (2025) - Season 1" tvg-logo="https://en.wikipedia.org/wiki/File:F1AcademyLogo.png", [ F1 The Academy (2025) - Season 1 ]
 https://jmp2.uk/stvp-CA2900005KG
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsYvRdPD/F1-Academy-KV-169.jpg" group-title="F1 The Academy (2025) - Season 1", Episode 1
